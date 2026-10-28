@@ -1,0 +1,4 @@
+{
+  "name": "BDA Lab",
+  "image": "mcr.microsoft.com/devcontainers/universal:latest"
+}
